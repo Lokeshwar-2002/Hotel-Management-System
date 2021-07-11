@@ -1,5 +1,5 @@
 # Hotel-Management-System PHP & HTML Project
-HOME PAGES : 
+ # HOME PAGES : 
 ![Screenshot (1)](https://user-images.githubusercontent.com/83341196/125197633-246edf00-e27c-11eb-91d5-97e5f4511219.png)
 ![Screenshot (2)](https://user-images.githubusercontent.com/83341196/125197637-29cc2980-e27c-11eb-900a-433585977099.png)
 ![Screenshot (3)](https://user-images.githubusercontent.com/83341196/125197648-30f33780-e27c-11eb-8c02-3beca256d00d.png)
