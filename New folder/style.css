@@ -1,0 +1,25 @@
+.container {
+   height: 75vh;
+   width: 30%;
+    background: rgba(0, 0, 0, .6);
+    position: absolute;
+    top: 50%;
+    left:50$;
+    transform: translate(-50%,-50%)
+  }
+  .img{
+      height: 70px;
+      width: 70px;
+      background: url(C:\Users\marta\OneDrive\Documents\hotel\New folder\main_icon.jpg)no-repeat;
+      background-size:cover;
+      background-position: center;
+      border-radius: 50px;
+      position: absolute;
+      top: 0%;
+      left:  50%;
+      transform: translate(-50%,-50%);
+  }
+  .container h1{
+      color: white;
+      margin-top: 50px:
+  }
